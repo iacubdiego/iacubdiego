@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- Your title -->
-## Hi, I'm Iacub Diego, a Developer 🚀 from Argentina.
+## I'm Iacub Diego, a Developer 🚀 from Argentina.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/iacubdiego)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-iacub/)
@@ -33,7 +33,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
   </a>
  -->
- 
+ <br>
   <!-- My languages and tools.
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
@@ -49,7 +49,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   
 </p>
-
+<br>
 <!-- Its main projects 
 <p align="center">
   <a href="https://github.com/onimur/handle-path-oz">
@@ -61,4 +61,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 </p>
 -->
 <!-- This readme was created by Diego Iacub - https://github.com/iacubdiego -->
+<br>
 ⭐️ From [iacubdiego](https://github.com/iacubdiego)
