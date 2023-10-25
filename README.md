@@ -16,8 +16,8 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🌱 I’m currently learning paython and React; 
-- 👯 I’m looking to collaborate in Web Develpoment;
+- 🌱 I’m currently learning python and React; 
+- 👯 I’m looking to collaborate in Web Development;
 - 🤔 I’m looking for help with orthographe;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in Antropology;
