@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!-- Your title -->
-## I'm Iacub Diego, a Developer 🚀 from Argentina.
+## Iacub Diego
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/iacubdiego)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-iacub/)
@@ -9,14 +7,8 @@
 
 &nbsp;
 
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
-
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
-**Languages and Tools:** 
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
@@ -39,7 +31,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   
 </p>
 <br>
